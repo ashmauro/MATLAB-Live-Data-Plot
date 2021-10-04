@@ -2,4 +2,6 @@
 
 Created by: Ashley Mauro
 
-MATLAB code that generates live plots of data in a csv file. Generates a GUI for the user to see the plots.
+MATLAB code that generates live plots of data in a csv file.
+
+PumpDataAnalysis.m Generates a GUI for the user to see four seperate plots.
